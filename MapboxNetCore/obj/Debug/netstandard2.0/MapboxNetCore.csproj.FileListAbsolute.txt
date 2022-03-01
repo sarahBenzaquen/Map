@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\bin\Debug\netstandard2.0\MapboxNetCore.deps.json
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\bin\Debug\netstandard2.0\MapboxNetCore.dll
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\bin\Debug\netstandard2.0\MapboxNetCore.pdb
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.Properties.Resources.resources
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.csproj.GenerateResource.cache
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.AssemblyInfo.cs
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.dll
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.pdb
+C:\Users\User\Desktop\DemosWPF\MapboxNetCore\obj\Debug\netstandard2.0\MapboxNetCore.csproj.AssemblyReference.cache
